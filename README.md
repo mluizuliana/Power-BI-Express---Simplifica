@@ -1,7 +1,7 @@
 
 # Curso Power BI Express
 
-Este curso foi projetado para fornecer uma introdução rápida e eficaz ao Power BI, uma poderosa ferramenta de análise de dados da Microsoft. Com este curso, você aprenderá a criar visualizações de dados impressionantes, insights acionáveis e relatórios interativos em pouco tempo.
+Este curso foi projetado para fornecer uma introdução rápida e eficaz ao Power BI, uma poderosa ferramenta de análise de dados da Microsoft.
 
 ## Conteúdo do Curso:
 
